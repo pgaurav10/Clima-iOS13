@@ -1,6 +1,8 @@
 
 #  Clima
 
+![clima-app](Documentation/ClimaApp.mov)
+
 ## Goal
 Clima is a weather application designed to provide users with real-time weather updates based on their current location. With an intuitive user interface and seamless integration of GPS data and Core Location services, Clima ensures that users stay informed about the weather conditions in their vicinity. Key features of the app include:
 
